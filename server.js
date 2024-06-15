@@ -25,7 +25,7 @@ app.get("/mps/:constituency", async (req, res) => {
   }
 });
 
-app.get("/", async (req, res) => {
+app.get("/mps", async (req, res) => {
   try {
     const mps = await Mp.find({});
     res.status(200).json(mps);
