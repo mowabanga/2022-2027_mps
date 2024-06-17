@@ -1,0 +1,2116 @@
+[
+  {
+    "county": "mombasa",
+    "code": "1",
+    "gps": ["-4.043740", "39.658871"],
+    "constituencies": {
+      "changamwe": {
+        "mp": "hon. Shimbwa Omar Mwinyi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mwinyi.jpg?itok=7ACjK_OQ",
+        "party": "odm",
+        "gps": ["-4.02611", "39.63056"]
+      },
+      "jomvu": {
+        "mp": "hon. Bady Twalib",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20bady.jpg?itok=tPWus7hW",
+        "party": "odm",
+        "gps": ["-3.983", "39.617"]
+      },
+      "kisauni": {
+        "mp": "hon. Shimbwa Omar Mwinyi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20bedzimba.jpg?itok=T_a0571m",
+        "party": "odm",
+        "gps": ["-4.0435", "39.6682"]
+      },
+      "nyali": {
+        "mp": "hon. Mohamed Ali",
+        "image": "http://www.parliament.go.ke/sites/default/files/2017-10/852c2fa5e5468761c3ae8b796ca9be85_M.jpg",
+        "party": "ind",
+        "gps": ["-4.0524600", "39.6972222"]
+      },
+      "likoni": {
+        "mp": "hon. Khamisi Mboko Mishi Juma",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Mboko%20Mishi%20Juma%20Khamisi.jpg?itok=9L14tY1E",
+        "party": "odm",
+        "gps": ["-4.083560", "39.661968"]
+      },
+      "mvita": {
+        "mp": "hon. Machele Mohamed Soud",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/cropped%20mvita.jpg?itok=NjuxAcLd",
+        "party": "odm",
+        "gps": ["-4.057460", "39.663940"]
+      }
+    }
+  },
+
+  {
+    "county": "kwale",
+    "code": "2",
+    "gps": ["-4.3179803", "39.5466179"],
+    "constituencies": {
+      "mswambweni": {
+        "mp": "hon. Salim Feisal Abdallah Bader",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Salim%20Feisal%20Abdallah%20Bader_0.jpg?itok=It5CFlao",
+        "party": "uda",
+        "gps": ["-4.4027541", "39.4138577"]
+      },
+      "lunga lunga": {
+        "mp": "hon. Chiforomodo Mangale Munga",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20lungalunga.jpg?itok=-Qd-01W_",
+        "party": "udm",
+        "gps": ["-4.3533981", "38.9622644"]
+      },
+      "matuga": {
+        "mp": "hon. Tandaza Kassim Sawa",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Kassim%20Sawa%20Tandaza.jpg?itok=JFzZRabi",
+        "party": "anc",
+        "gps": ["-4.0435", "39.4451987"]
+      },
+      "kinango": {
+        "mp": "hon. Rai Samuel Gonzi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Rai.jpg?itok=DHipIyd3",
+        "party": "paa",
+        "gps": ["-3.950666", "39.2407038"]
+      }
+    }
+  },
+
+  {
+    "county": "kilifi",
+    "code": "3",
+    "gps": ["-3.1507392", "39.6750716"],
+    "constituencies": {
+      "kilifi north": {
+        "mp": "hon. Baya Owen Yaa",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Owen%20Mbaya.jpg?itok=2MHpHLBs",
+        "party": "uda",
+        "gps": ["-3.35", "40.0166"]
+      },
+      "kilifi south": {
+        "mp": "hon. Kiti Richard Ken Chonga",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20chonga.jpg?itok=4GbDrkjr",
+        "party": "odm",
+        "gps": ["-3.8981252", "39.7407663"]
+      },
+      "kaloleni": {
+        "mp": "hon. Katana Paul Kahindi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Paul%20Katana%20Kahindi.jpg?itok=mDfelKnX",
+        "party": "odm",
+        "gps": ["-3.7780828", "39.5394144"]
+      },
+      "rabai": {
+        "mp": "hon. Mupe Anthony Kenga",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20rabai.jpg?itok=98NudbIG",
+        "party": "paa",
+        "gps": ["-3.9147492", "39.6051655"]
+      },
+      "ganze": {
+        "mp": "hon. Tungule Charo Kenneth Kazungu",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_Cropped%20Ganze.jpg?itok=i9wJg0Lz",
+        "party": "paa",
+        "gps": ["-3.5298019", "39.4651245"]
+      },
+      "malindi": {
+        "mp": "hon. Mnyazi Amina Laura",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20malindi.jpg?itok=hyTNiLVB",
+        "party": "odm",
+        "gps": ["-3.2165987", "40.1165933"]
+      },
+      "magarini": {
+        "mp": "hon. Kombe Harrison Garama",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Kombe%20Harrison%20Garama.jpg?itok=0o3LYlRW",
+        "party": "odm",
+        "gps": ["-3.0361068", "40.1365341"]
+      }
+    }
+  },
+
+  {
+    "county": "tana river",
+    "code": "4",
+    "gps": ["-1.5365119", "39.5508374"],
+    "constituencies": {
+      "garsen": {
+        "mp": "hon. Guyo Ali Wario",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_Cropped%20Guyo.jpg?itok=dvbzjBPc",
+        "party": "odm",
+        "gps": ["-2.4399543", "39.2117808"]
+      },
+      "galole": {
+        "mp": "hon. Hhiribae Said Buya",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-09/mini_cropped%20buya.jpg",
+        "party": "odm",
+        "gps": ["-1.4166", "40.0166"]
+      },
+      "bura": {
+        "mp": "hon. Kuno Yakub Adow",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Kuno%20Yakub%20Adow.jpg?itok=MdNcEdoS",
+        "party": "upia",
+        "gps": ["-1.1666", "39.9666"]
+      }
+    }
+  },
+
+  {
+    "county": "lamu",
+    "code": "5",
+    "gps": ["-2.2675396", "40.9010641"],
+    "constituencies": {
+      "lamu east": {
+        "mp": "hon. Obo Ruweida Mohammed",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/mini_831A4746.jpg?itok=jMMBJMFk",
+        "party": "jp",
+        "gps": ["-1.7840363", "41.0407406"]
+      },
+      "lamu west": {
+        "mp": "hon. Muthama Stanley Muiruri",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20lamu%20west.jpg?itok=qfTl3gl4",
+        "party": "jp",
+        "gps": ["-2.2675396", "40.9011641"]
+      }
+    }
+  },
+
+  {
+    "county": "taita taveta",
+    "code": "6",
+    "gps": ["-3.3975427", "38.5935319"],
+    "constituencies": {
+      "taveta": {
+        "mp": "hon. Bwire John Okano",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20taveta.jpg?itok=zMNYusZs",
+        "party": "wdm",
+        "gps": ["-3.4", "37.6833"]
+      },
+      "wundanyi": {
+        "mp": "hon. Mwakuwona Danson Mwashako",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Mwakuwona%20Danson%20Mwashako.jpg?itok=CrGJrOvP",
+        "party": "wdm",
+        "gps": ["-3.4047687", "38.3673001"]
+      },
+      "mwatate": {
+        "mp": "hon. Shake Mbogho Peter",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mwatate.jpg?itok=bz03eWu_",
+        "party": "jp",
+        "gps": ["-3.7051245", "38.2869168"]
+      },
+      "voi": {
+        "mp": "hon. Abdi Kamis Chome",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Abdi%20Khamis%20Chome2.jpg?itok=p4shAEVD",
+        "party": "wdm",
+        "gps": ["-3.3975427", "38.5935319"]
+      }
+    }
+  },
+
+  {
+    "county": "garissa",
+    "code": "7",
+    "gps": ["-0.4567099", "39.6404713"],
+    "constituencies": {
+      "garissa township": {
+        "mp": "hon. Dekow Mohammed",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/default_images/person-outline-icon-png-person-outline-icon-png-person-17.png?itok=Nbz0asMk",
+        "party": "jp",
+        "gps": ["-0.4567099", "39.6404713"]
+      },
+      "balambala": {
+        "mp": "hon. Shurie Abdi Omar",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Shurie%20Abdi%20Omar.jpg?itok=8qSlNZct",
+        "party": "jp",
+        "gps": ["0.1084366", "39.0819852"]
+      },
+      "lagdera": {
+        "mp": "hon. Mohammed Abdikadir Hussein",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_Ladgera.jpg?itok=C2QwJqbv",
+        "party": "odm",
+        "gps": ["0.4985537", "39.2221637"]
+      },
+      "dadaab": {
+        "mp": "hon. Maalim Farah",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20farah.jpg?itok=X9d__tAq",
+        "party": "wdm",
+        "gps": ["0.0525551", "40.30764"]
+      },
+      "fafi": {
+        "mp": "hon. Farah Salah Yakub",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-09/mini_cropped%20salah.jpg",
+        "party": "uda",
+        "gps": ["-0.7392097", "40.4309865"]
+      },
+      "ijara": {
+        "mp": "hon. Abdi Ali",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20ijara.jpg?itok=1QDsCZ1F",
+        "party": "nap-k",
+        "gps": ["-1.6637191", "40.4918966"]
+      }
+    }
+  },
+
+  {
+    "county": "wajir",
+    "code": "8",
+    "gps": ["1.9394402", "40.024736"],
+    "constituencies": {
+      "wajir north": {
+        "mp": "hon. Saney Ibrahim Adbi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Ibrahim%20Saney%20Abdi.jpg?itok=zREgQ-JD",
+        "party": "uda",
+        "gps": ["3.0713287", "39.7142099"]
+      },
+      "wajir east": {
+        "mp": "hon. Mohammed Aden Daudi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Adan%20Daud%20Mohamed.jpg?itok=WkiBWB74",
+        "party": "jp",
+        "gps": ["2.0104924", "40.7153923"]
+      },
+      "tarbaj": {
+        "mp": "hon. Barre Hussein Abdi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20tarbaj.jpg?itok=ZFW1MbQ-",
+        "party": "odm",
+        "gps": ["2.4659294", "40.189563"]
+      },
+      "wajir west": {
+        "mp": "hon. Farah Yussuf Mohammed",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Farah%20Yussuf%20Mohamed_0.jpg?itok=IN9Evc7J",
+        "party": "odm",
+        "gps": ["1.6672539", "39.6663743"]
+      },
+      "eldas": {
+        "mp": "hon. Keynan Wehliye Adan",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/HON%20KEYNA.jpg?itok=vTqhdtOE",
+        "party": "jp",
+        "gps": ["2.1926859", "39.7456319"]
+      },
+      "wajir south": {
+        "mp": "hon. Adow Aden Mohammed",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Adow%20Aden%20Mohamed.jpg?itok=LiWbR6BN",
+        "party": "odm",
+        "gps": ["1.0191165208816528", "39.50124740600586"]
+      }
+    }
+  },
+
+  {
+    "county": "mandera",
+    "code": "9",
+    "gps": ["3.9356", "41.8551"],
+    "constituencies": {
+      "mandera north": {
+        "mp": "hon. Abdullaih bashir",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-09/Abdullaih%20Bashir%20Sheikh.jpg",
+        "party": "udm",
+        "gps": ["3.5523692", "40.8691207"]
+      },
+      "mandera east": {
+        "mp": "hon. Abdirahman Mohammed",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-09/mini_cropped%20mandera_1.jpg",
+        "party": "odm",
+        "gps": ["3.525411", "41.499079"]
+      },
+      "banissa": {
+        "mp": "vacant",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/default_images/person-outline-icon-png-person-outline-icon-png-person-17.png?itok=Nbz0asMk",
+        "party": "n/a",
+        "gps": ["3.9978261", "40.4623531"]
+      },
+      "mandera west": {
+        "mp": "hon. Yussuf Adan Haji",
+        "image": "http://www.parliament.go.ke/sites/default/files/2017-10/7504c9799ee42c9b6ddf530abd1362ee_M.jpg",
+        "party": "efp",
+        "gps": ["3.3987343", "40.2241984"]
+      },
+      "lafey": {
+        "mp": "hon. Abdirahman Mohamed Abdi",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-09/Final.jpg",
+        "party": "jp",
+        "gps": ["3.4970367", "41.183628"]
+      },
+      "mandera south": {
+        "mp": "hon. Ali Adan Haji",
+        "image": "http://www.parliament.go.ke/sites/default/files/2017-10/f16c3089012335af8414b146795098dc_M.jpg",
+        "party": "jp",
+        "gps": ["3.1837951", "40.8673946"]
+      }
+    }
+  },
+
+  {
+    "county": "marsabit",
+    "code": "10",
+    "gps": ["2.3380612", "37.991639"],
+    "constituencies": {
+      "moyale": {
+        "mp": "hon. Jaldesa Guyo Waqo",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Guyo%20Waqo%20Jaldesa.jpg?itok=AYw2QhPx",
+        "party": "upia",
+        "gps": ["3.51590545", "39.05841842957835"]
+      },
+      "north horr": {
+        "mp": "hon. Adhe Wario Guyo",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-09/mini_831A9836.jpg",
+        "party": "kanu",
+        "gps": ["3.1070301", "37.695275"]
+      },
+      "saku": {
+        "mp": "hon. Rasso col(rtd) Dido Ali",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20saku.jpg?itok=rzoKK_co",
+        "party": "uda",
+        "gps": ["2.37169725", "37.9492699"]
+      },
+      "laisamis": {
+        "mp": "hon. Lekuton Joseph",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-12/Lekuton%20Joseph.jpg?itok=jpK-tsPU",
+        "gps": ["1.590479", "37.802513"]
+      }
+    }
+  },
+
+  {
+    "county": "isiolo",
+    "code": "11",
+    "gps": ["0.35", "37.583303"],
+    "constituencies": {
+      "isiolo north": {
+        "mp": "hon. Lomwa Joseph Samal",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20samal.jpg?itok=q3Z64pKq",
+        "party": "jp",
+        "gps": ["1.44044725", "38.73005871"]
+      },
+      "isiolo south": {
+        "mp": "hon. Bidu Mohamed Tubi",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-09/mini_cropped%20bidu.jpg",
+        "party": "jp",
+        "gps": ["0.2601246", "38.2401853"]
+      }
+    }
+  },
+
+  {
+    "county": "meru",
+    "code": "12",
+    "gps": ["0.0499786", "37.6500063"],
+    "constituencies": {
+      "igembe south": {
+        "mp": "hon. Mwirigi John Paul",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20paul.jpg?itok=uBZvk5ak",
+        "party": "uda",
+        "gps": ["0.232643", "37.938023"]
+      },
+      "igembe central": {
+        "mp": "hon. Karitho Kiili Daniel",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped_0.jpg?itok=yO0l75Fs",
+        "party": "jp",
+        "gps": ["0.2833", "37.8833"]
+      },
+      "igembe north": {
+        "mp": "hon. Taitamu Julius Manaiba",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20m%27anaiba.jpg?itok=KqhEdbBt",
+        "party": "uda",
+        "gps": ["0.4791224", "37.9545615"]
+      },
+      "tigania west": {
+        "mp": "hon. Mutunga John Kanyuithia",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20john.jpg?itok=oh6eToHz",
+        "party": "uda",
+        "gps": ["0.24200635", "37.6763452"]
+      },
+      "tigania east": {
+        "mp": "hon. Aburi Lawrence Mpuru",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-10/cropped%20aburi.jpg",
+        "party": "nopeu",
+        "gps": ["0.26274405", "37.78632646"]
+      },
+      "north imenti": {
+        "mp": "hon. Dawood Abdul Rahim",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Dawood%20Rahim%20Abdul.jpg?itok=9-GRp1PU",
+        "party": "ind",
+        "gps": ["0.06317235", "37.6820838"]
+      },
+      "buuri": {
+        "mp": "hon. Rindikiri Mugambi Murwithania",
+        "image": "http://www.parliament.go.ke/sites/default/files/2017-10/4574050533b8ea8ae703ffdf4259c2ce_M.jpg",
+        "party": "jp",
+        "gps": ["0.1363605", "37.4618986"]
+      },
+      "central imenti": {
+        "mp": "hon. Kirima Moses Nguchine",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Nguchine.jpg?itok=o-n7nL9E",
+        "party": "uda",
+        "gps": ["-0.02991945", "37.77399578"]
+      },
+      "south imenti": {
+        "mp": "hon. Ithinji Shadrack Mwiti",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20south%20imenti.jpg?itok=lClQTdFZ",
+        "party": "jp",
+        "gps": ["-0.1189187", "37.62277835"]
+      }
+    }
+  },
+
+  {
+    "county": "tharaka-nithi",
+    "code": "13",
+    "gps": ["-0.19370805", "37.96140495"],
+    "constituencies": {
+      "maara": {
+        "mp": "hon. Mbiuki Japhet Miriti Kareke",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-09/mini_cropped%20maara.jpg",
+        "party": "uda",
+        "gps": ["-0.2904051", "37.7102012"]
+      },
+      "chuka": {
+        "mp": "hon. Ntwiga Patrick Munene",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-09/mini_cropped%20chuka.jpg",
+        "party": "uda",
+        "gps": ["-0.3332938", "37.6500021"]
+      },
+      "tharaka": {
+        "mp": "hon. Murugara George Gitonga",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20tharaka.jpg?itok=8hthSJat",
+        "party": "uda",
+        "gps": ["-0.1750842", "37.9779814"]
+      }
+    }
+  },
+
+  {
+    "county": "embu",
+    "code": "14",
+    "gps": ["-0.5376699", "37.4583949"],
+    "constituencies": {
+      "manyatta": {
+        "mp": "hon. Mukunji John Gitonga Mwaniki",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20john_0.jpg?itok=Z0Y-hSyk",
+        "party": "uda",
+        "gps": ["-0.37452304", "37.44917546"]
+      },
+      "runyenjes": {
+        "mp": "hon. Karemba Eric Muchangi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20njiru.jpg?itok=UxFr_gfw",
+        "party": "uda",
+        "gps": ["-0.4509411", "37.5559212"]
+      },
+      "mbeere south": {
+        "mp": "hon. Muriuki Nebart Bernard",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Muriuki%20Bernard%20Nebart.jpg?itok=u-TnszvK",
+        "party": "ind",
+        "gps": ["-0.72935255", "37.70519479"]
+      },
+      "mbeere north": {
+        "mp": "hon. Ruku George Kiringa",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Ruku%20Geoffrey%20Kiringa.jpg?itok=9zzA8cru",
+        "party": "dp",
+        "gps": ["-0.50652145", "37.79104723"]
+      }
+    }
+  },
+
+  {
+    "county": "kitui",
+    "code": "15",
+    "gps": ["-1.3666", "38.0166"],
+    "constituencies": {
+      "mwingi north": {
+        "mp": "hon. Nzengu Paul Musyimi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mwingi_0.jpg?itok=i06_o4rO",
+        "party": "wdm",
+        "gps": ["-0.4463178", "38.28611765"]
+      },
+      "mwingi west": {
+        "mp": "hon. Nguna Ngusya Charles",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_PHOTO-2022-05-26-14-17-39.jpg?itok=oF392Kr0",
+        "party": "wdm",
+        "gps": ["38.28611765", "37.95236188"]
+      },
+      "mwingi central": {
+        "mp": "hon. Mulyungi Gideon Mutemi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mwingi.jpg?itok=z1hTnq3d",
+        "party": "wdm",
+        "gps": ["-0.9196838", "38.4680539"]
+      },
+      "kitui west": {
+        "mp": "hon. Nyenze Edith Vethi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20edith.jpg?itok=cA4e4uvy",
+        "party": "wdm",
+        "gps": ["-1.23683255", "37.90134707"]
+      },
+      "kitui rural": {
+        "mp": "hon. Mboni David Mwalika",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kitui%20rural.jpg?itok=Z8a7uNZj",
+        "party": "wdm",
+        "gps": ["-1.49073244", "37.8228707"]
+      },
+      "kitui central": {
+        "mp": "hon. Mulu Makali",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Mulu%20Makali.jpg?itok=qFyXdCpA",
+        "party": "wdm",
+        "gps": ["-1.360687", "37.9925630"]
+      },
+      "kitui east": {
+        "mp": "hon. Mbai Nimrod Mbithuka",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/NIMROD%20MBITHUKA.jpg?itok=7i1MlN4_",
+        "party": "uda",
+        "gps": ["-1.404706", "38.499735"]
+      },
+      "kitui south": {
+        "mp": "hon. Nyamai Racheal Kaki",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kaki.jpg?itok=xLF1wjmL",
+        "party": "dp",
+        "gps": ["-2.2663093", "38.4609436"]
+      }
+    }
+  },
+
+  {
+    "county": "machakos",
+    "code": "16",
+    "gps": ["-1.5212477", "37.2660878"],
+    "constituencies": {
+      "masinga": {
+        "mp": "hon. Mwalyo Joshua Mbithi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Mwalyo%20Joshua%20Mbithi.jpg?itok=wnwcqoj1",
+        "party": "ind",
+        "gps": ["-1.5212477", "37.603146603"]
+      },
+      "yatta": {
+        "mp": "hon. Basil Robert Ngui",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Basil%20Robert%20Ngui.jpg?itok=cr-kzXgo",
+        "party": "wdm",
+        "gps": ["-1.2441214", "37.5851377"]
+      },
+      "kangundo": {
+        "mp": "hon. Muli Fabian Kyule",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20muli.jpg?itok=P3twQWxQ",
+        "party": "gddp",
+        "gps": ["-1.3033777", "37.3472931"]
+      },
+      "matungulu": {
+        "mp": "hon. Mule Stephen Mutinda",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-10/Mule%20Stephen%20Mutinda.jpg",
+        "party": "wdm",
+        "gps": ["-1.2081262", "37.2543044"]
+      },
+      "kathiani": {
+        "mp": "hon. Mbui Robert",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Ruku%20Geoffrey%20Kiringa.jpg?itok=9zzA8cru",
+        "party": "wdm",
+        "gps": ["-1.42415195", "37.29898338"]
+      },
+      "mavoko": {
+        "mp": "hon. King'ola Patrick Makau",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Ruku%20Geoffrey%20Kiringa.jpg?itok=9zzA8cru",
+        "party": "wdm",
+        "gps": ["-1.4538844", "37.0394017"]
+      },
+      "machakos town": {
+        "mp": "hon. Mule Caleb Mutiso",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20mule.jpg?itok=pBzPwr1w",
+        "party": "mccp",
+        "gps": ["-1.5212477", "37.2660878"]
+      },
+      "mwala": {
+        "mp": "hon. Musau Vincent Musyoka",
+        "image": "http://www.parliament.go.ke/sites/default/files/2017-10/f7333766001349d91d9a4030b2201a2e_M.jpg",
+        "party": "mccp",
+        "gps": ["-1.4027317", "37.5112618"]
+      }
+    }
+  },
+
+  {
+    "county": "makueni",
+    "code": "17",
+    "gps": ["-2.25709305", "37.87717148"],
+    "constituencies": {
+      "mbooni": {
+        "mp": "hon. Nzioka Erastus Kivasu",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Nzioka%20Erastus%20Kivasu.jpg?itok=JiBOIsKE",
+        "party": "wdm",
+        "gps": ["-1.6530586", "37.5992580"]
+      },
+      "kilome": {
+        "mp": "hon. (ENG.) Nzambia Kithua Thuddeus",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_Cropped%20kilome.jpg?itok=gq_gum3p",
+        "party": "wdm",
+        "gps": ["-1.83498115", "37.25687935"]
+      },
+      "kaiti": {
+        "mp": "hon. Kimilu Joshua Kivinda",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20%20kaiti.jpg?itok=iBdf-pjg",
+        "party": "wdm",
+        "gps": ["-1.78736645", "37.43658479"]
+      },
+      "makueni": {
+        "mp": "hon. Kiamba Suzanne Ndunge",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20susan.jpg?itok=dwZo1kw6",
+        "party": "wdm",
+        "gps": ["-2.25709305", "37.87717148"]
+      },
+      "kibwezi west": {
+        "mp": "hon. Mutuse Eckomas Mwengi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_kibwezi%20cropped.jpg?itok=zYHe7gRn",
+        "party": "uda",
+        "gps": ["-2.19166335", "37.88977590"]
+      },
+      "kibwezi east": {
+        "mp": "hon. Mbalu Jessica Nduku Kiko",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mbalu.jpg?itok=Zvmxxo2J",
+        "party": "wdm",
+        "gps": ["-2.6424837", "38.11704937"]
+      }
+    }
+  },
+
+  {
+    "county": "nyandarua",
+    "code": "18",
+    "gps": ["-0.3917064", "36.4977396"],
+    "constituencies": {
+      "kinangop": {
+        "mp": "hon. Thuku Zachary Kwenya",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Thuku%20Zachary%20Kwenya.jpg?itok=xoitjpuK",
+        "party": "jp",
+        "gps": ["-0.6691714", "36.61981409"]
+      },
+      "kipipiri": {
+        "mp": "hon. Muhia Wanjiku",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Muhia%20Wanjiku.jpg?itok=iaT6XEB-",
+        "party": "uda",
+        "gps": ["-0.406194", "36.5219352"]
+      },
+      "ol kalou": {
+        "mp": "hon. Kiaraho David Njuguna",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/DSC_0177%40%40AW.jpg?itok=jPfNDgtG",
+        "party": "jp",
+        "gps": ["-0.2672966", "36.378065"]
+      },
+      "ol jorok": {
+        "mp": "hon. Muchira Michael Mwangi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20pic.jpg?itok=V6ldxsCR",
+        "party": "uda",
+        "gps": ["-0.0724724", "36.3639193"]
+      },
+      "ndaragwa": {
+        "mp": "hon. Gachagua George",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A0021.jpg?itok=qxeak9ya",
+        "party": "uda",
+        "gps": ["-0.17971525", "36.56675693"]
+      }
+    }
+  },
+
+  {
+    "county": "nyeri",
+    "code": "19",
+    "gps": ["-0.4192962", "36.9517005"],
+    "constituencies": {
+      "tetu": {
+        "mp": "hon. Mwangi Geoffrey Wandeto",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20tete.jpg?itok=vBBxjUao",
+        "party": "uda",
+        "gps": ["-0.4558923", "36.8829480"]
+      },
+      "kieni": {
+        "mp": "hon. Wainaina Anthony Njoroge",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kieni.jpg?itok=X4Z6Ypqz",
+        "party": "uda",
+        "gps": ["-0.169126", "37.021229"]
+      },
+      "mathira": {
+        "mp": "hon. Eric Wamumbi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2024-02/Eric%20Wamumbi.jpg?itok=He7O-et1",
+        "party": "uda",
+        "gps": ["-0.31753425", "37.18083680"]
+      },
+      "othaya": {
+        "mp": "hon. Wainaina Michael Wambugu",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20othaya.jpg?itok=-tidOmQD",
+        "party": "uda",
+        "gps": ["-0.5492057", "36.9455272"]
+      },
+      "mukurweini": {
+        "mp": "hon. Kaguchia John Phillip Gichohi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Kaguchia%20John%20Philip%20Gichohi.jpg?itok=bMMS_xMW",
+        "party": "uda",
+        "gps": ["-0.581889", "37.073737"]
+      },
+      "nyeri town": {
+        "mp": "hon. Wachira Rahab Mukami",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20nyeri.jpg?itok=0zeqT0VI",
+        "party": "uda",
+        "gps": ["-0.4192962", "36.9517005"]
+      }
+    }
+  },
+
+  {
+    "county": "kirinyaga",
+    "code": "20",
+    "gps": ["-0.3806587", "37.31452389"],
+    "constituencies": {
+      "mwea": {
+        "mp": "hon. Maingi Mary",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-09/mini_cropped%20mwea.jpg",
+        "party": "uda",
+        "gps": ["-0.6369151", "37.4067549"]
+      },
+      "gichugu": {
+        "mp": "hon. Githinji Robert Gichimu",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20gichugu.jpg?itok=4G-GRzwV",
+        "party": "uda",
+        "gps": ["-0.48402115", "37.358665"]
+      },
+      "ndia": {
+        "mp": "hon. Kariuki George Macharia",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Macharia%20George%20Kariuki.jpg?itok=1YMVy0Cg",
+        "party": "uda",
+        "gps": ["-0.556941", "37.1996747"]
+      },
+      "kirinyaga central": {
+        "mp": "hon. Gitari Joseph Gachoki",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20pic.jpg?itok=V6ldxsCR",
+        "party": "uda",
+        "gps": ["-0.3806587", "37.31452389"]
+      }
+    }
+  },
+
+  {
+    "county": "murang'a",
+    "code": "21",
+    "gps": ["-0.7236564", "37.1575858"],
+    "constituencies": {
+      "kangema": {
+        "mp": "hon. Kihungi Peter Irungu",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/cropped%20kangema.jpg?itok=O5YQtMiH",
+        "party": "uda",
+        "gps": ["-0.6845629", "36.9523227"]
+      },
+      "mathioya": {
+        "mp": "hon. (Dr.) Gichuki Edwin Mugo",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Gichuki%20Edwin%20Mugo.jpg?itok=pUwhYirf",
+        "party": "uda",
+        "gps": ["-0.652329", "36.770523"]
+      },
+      "kiharu": {
+        "mp": "hon. Nyoro Samson Ndindi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Nyoro%20Ndindi%20Samson.jpg?itok=-IKzU2fx",
+        "party": "uda",
+        "gps": ["-0.7003615", "37.18295"]
+      },
+      "kigumo": {
+        "mp": "hon. Munyoro Joseph Kamau",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kigumo.jpg?itok=mulFjDT3",
+        "party": "uda",
+        "gps": ["-0.7773542", "36.9010610"]
+      },
+      "maragwa": {
+        "mp": "hon. Njoroge Mary Wamaua Waithira",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-11/Hon.%20Mary%20Wamaua.jpg?itok=utsyPiNY",
+        "party": "uda",
+        "gps": ["-0.8812469", "37.1997889"]
+      },
+      "kandara": {
+        "mp": "hon. Chege Njuguna",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2023-05/Hon.%20Chege%20Njuguna.jpg?itok=s4eDgYi0",
+        "party": "uda",
+        "gps": ["-0.8822624", "37.0249340"]
+      },
+      "gatanga": {
+        "mp": "hon. Muriu Wakili Edward",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20gatanga.jpg?itok=d1Dn609X",
+        "party": "uda",
+        "gps": ["-0.898356", "36.927085"]
+      }
+    }
+  },
+
+  {
+    "county": "kiambu",
+    "code": "22",
+    "gps": ["-1.16059665", "36.83527929"],
+    "constituencies": {
+      "gatundu south": {
+        "mp": "hon. Kagombe Gabriel Gathuka",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped.jpg?itok=sYluzpSB",
+        "party": "uda",
+        "gps": ["-0.9871052", "36.8521188"]
+      },
+      "gatundu north": {
+        "mp": "hon. Kururia Elijah Njore Njoroge",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Kururia%20Elijah%20Njore%20Njoroge.jpg?itok=VLinJmQ3",
+        "party": "ind",
+        "gps": ["-0.91627875", "36.84731317"]
+      },
+      "juja": {
+        "mp": "hon. Ndung'u George Koimburi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20cropped.jpg?itok=t19YCMsg",
+        "party": "uda",
+        "gps": ["-1.1015227", "37.0158765"]
+      },
+      "thika town": {
+        "mp": "hon. Ng'ang'a Alice Wambui",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20thika%20town.jpg?itok=Go3b5RB2",
+        "party": "uda",
+        "gps": ["-1.036648", "37.077523"]
+      },
+      "ruiru": {
+        "mp": "hon. Kingara Simon Ng'ang'a",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20ruiru.jpg?itok=dbbsoEuH",
+        "party": "uda",
+        "gps": ["-1.1472712", "36.9604486"]
+      },
+      "githunguri": {
+        "mp": "hon. Wamuchomba Gathoni",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Wamuchomba%20Gathoni.jpg?itok=sYSB7Aoa",
+        "party": "uda",
+        "gps": ["-1.0565221", "36.7783493"]
+      },
+      "kiambu": {
+        "mp": "hon. Muratha Anne Wanjiku Mugo",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Muratha%20Anne%20Wanjiku.jpg?itok=K9Mph7vQ",
+        "party": "uda",
+        "gps": ["-1.16059665", "36.83527929"]
+      },
+      "kiambaa": {
+        "mp": "hon. Wanjiku John Njuguna",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kiambaa.jpg?itok=rE2BmWs_",
+        "party": "uda",
+        "gps": ["-1.1632561", "36.75185835"]
+      },
+      "kabete": {
+        "mp": "hon. Wamacukuru James Githua Kamau",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20wamachukuru.jpg?itok=yVqTcKFb",
+        "party": "uda",
+        "gps": ["-1.2183049", "36.7075751"]
+      },
+      "kikuyu": {
+        "mp": "hon. Ichung'wah Antony Kimani",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Ichung%27wah%20Anthony%20Kimani2.jpg?itok=ciM0eqWk",
+        "party": "uda",
+        "gps": ["-1.2438971", "36.6645832"]
+      },
+      "limuru": {
+        "mp": "hon. Chege John Kiragu",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20limuru.jpg?itok=aErmJvZY",
+        "party": "uda",
+        "gps": ["-1.1158645", "36.6393103"]
+      },
+      "lari": {
+        "mp": "hon. Kahangara Joseph Mburu",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20lari.jpg?itok=hM0NVTZK",
+        "party": "uda",
+        "gps": ["-0.91295745", "36.64374154"]
+      }
+    }
+  },
+
+  {
+    "county": "turkana",
+    "code": "23",
+    "gps": ["2.76556575", "35.59772282"],
+    "constituencies": {
+      "turkana north": {
+        "mp": "hon. Ekwom Nabuin",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20paul.jpg?itok=IY9q5Kki",
+        "party": "odm",
+        "gps": ["2.8829108", "35.9342176"]
+      },
+      "turkana west": {
+        "mp": "hon. Nanok Daniel Epuyo",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Gichuki%20Edwin%20Mugo.jpg?itok=pUwhYirf",
+        "party": "uda",
+        "gps": ["3.706286", "34.873489"]
+      },
+      "turkana central": {
+        "mp": "hon. Namuar Joseph Emathe",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20turkana_0.jpg?itok=-UMHRHee",
+        "party": "uda",
+        "gps": ["3.1165858", "35.6022943"]
+      },
+      "loima": {
+        "mp": "hon. Akujah Protus Ewesit",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_croped%20loima.jpg?itok=nLo_i_m_",
+        "party": "uda",
+        "gps": ["2.9192718", "35.4007699"]
+      },
+      "turkana south": {
+        "mp": "hon. Ariko John Namoit",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20trukana.jpg?itok=iIarpN2s",
+        "party": "odm",
+        "gps": ["2.376658", "35.645987"]
+      },
+      "turkana east": {
+        "mp": "hon. Ngikolong Nicholas Ngikor Nixon",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20Nixon.jpg?itok=tkzwP6fU",
+        "party": "jp",
+        "gps": ["1.182973", "36.103887"]
+      }
+    }
+  },
+
+  {
+    "county": "west pokot",
+    "code": "24",
+    "gps": ["1.87986079", "35.210613"],
+    "constituencies": {
+      "kapenguria": {
+        "mp": "hon. Chumel Moroto Samuel",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20moroto.jpg?itok=RpvG_hRO",
+        "party": "uda",
+        "gps": ["1.2522515", "35.0909919"]
+      },
+      "sigor": {
+        "mp": "hon. Lochakapong Peter",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/DSC_1164%20copy_0.jpg?itok=kqtFgO1O",
+        "party": "uda",
+        "gps": ["1.4824763", "35.4706941"]
+      },
+      "kacheliba": {
+        "mp": "hon. Lotee Titus",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Lotee%20Titus_0.jpg?itok=GoLhuXT4",
+        "party": "kup",
+        "gps": ["1.4825513", "35.0110798"]
+      },
+      "pokot south": {
+        "mp": "hon. Pkosing David",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A7278.jpg?itok=NGkEJ9U8",
+        "party": "kup",
+        "gps": ["1.332185", "35.301131"]
+      }
+    }
+  },
+
+  {
+    "county": "samburu",
+    "code": "25",
+    "gps": ["1.5394463", "36.9421659"],
+    "constituencies": {
+      "samburu west": {
+        "mp": "hon. Lesuuda Naisula",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Lesuuda%20Josephine%20Naisula.jpg?itok=qrmWo_Ca",
+        "party": "kanu",
+        "gps": ["1.1", "36.7"]
+      },
+      "samburu north": {
+        "mp": "hon. Letipila Dominic Eli",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20samburu_0.jpg?itok=LiAF0VBu",
+        "party": "uda",
+        "gps": ["1.73701535", "36.6523311"]
+      },
+      "samburu east": {
+        "mp": "hon. Lentoijoni Jackson Lekumontare",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Lentoijoni%20Jackson%20Lekumontare.jpg?itok=MgkHxzvV",
+        "party": "kanu",
+        "gps": ["1.0404966500", "37.79758853"]
+      }
+    }
+  },
+
+  {
+    "county": "trans-nzoia",
+    "code": "26",
+    "gps": ["1.045458249", "34.979043"],
+    "constituencies": {
+      "kwanza": {
+        "mp": "hon. Wanyonyi Kevin Ferdinand",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kevin.jpg?itok=d14Ls9Po",
+        "party": "ford-k",
+        "gps": ["1.13731975", "34.9891706"]
+      },
+      "endebess": {
+        "mp": "hon. (Dr.) Pukose Robert",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Pukose.jpg?itok=OjXU2HqN",
+        "party": "uda",
+        "gps": ["1.1453869", "34.72052"]
+      },
+      "saboti": {
+        "mp": "hon. Luyai Caleb Amisi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20saboti.jpg?itok=1BjogSuY",
+        "party": "odm",
+        "gps": ["0.947637", "34.81840"]
+      },
+      "kiminini": {
+        "mp": "hon. Bisau Maurice Kakai",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kiminini.jpg?itok=SVTmX06A",
+        "party": "dap-k",
+        "gps": ["0.9329072", "34.9937385"]
+      },
+      "cherangany": {
+        "mp": "hon. Barasa Patrick Simiyu",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20barasa.jpg?itok=m81r0_q1",
+        "party": "dap-k",
+        "gps": ["1.04336495", "35.1794008"]
+      }
+    }
+  },
+
+  {
+    "county": "uasin gishu",
+    "code": "27",
+    "gps": ["0.4771938", "35.305059"],
+    "constituencies": {
+      "soy": {
+        "mp": "hon. Kiplagat David",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20soy.jpg?itok=pJH1OEeU",
+        "party": "ford-k",
+        "gps": ["0.7600378", "35.2211046"]
+      },
+      "turbo": {
+        "mp": "hon. Sitienei Janet Jepkemboi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20janet.jpg?itok=ATiDaARU",
+        "party": "uda",
+        "gps": ["0.597513", "35.098474"]
+      },
+      "moiben": {
+        "mp": "hon. Bartoo Phylis Jepkemoi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Bartoo%20Phyllis%20Jepkemoi.jpg?itok=MI57t4cx",
+        "party": "uda",
+        "gps": ["0.72163215", "35.39900466"]
+      },
+      "ainabkoi": {
+        "mp": "hon. Chepkonga Samuel Kiprono",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/cropped.jpg?itok=EH6RYgzD",
+        "party": "uda",
+        "gps": ["0.310198", "35.456806"]
+      },
+      "kapseret": {
+        "mp": "hon. Sudi Oscar Kipchumba",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20sudi.jpg?itok=-XqlPrkj",
+        "party": "uda",
+        "gps": ["0.4194332", "35.2463928"]
+      },
+      "kesses": {
+        "mp": "hon. Rutto Julius Kipletting",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kesses.jpg?itok=s77iFd_Q",
+        "party": "uda",
+        "gps": ["0.25966", "35.345883"]
+      }
+    }
+  },
+
+  {
+    "county": "elgeyo marakwet",
+    "code": "28",
+    "gps": ["0.7422191", "35.561808"],
+    "constituencies": {
+      "marakwet east": {
+        "mp": "hon. Bowen David Kangogo",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Bowen%20Kangogo%20David.jpg?itok=9CDUeiFt",
+        "party": "uda",
+        "gps": ["1.1474007", "35.4785812"]
+      },
+      "marakwet west": {
+        "mp": "hon. Toroitich Timothy Kipchumba",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Toroitich%20Timothy%20Kipchumba.jpg?itok=7Mo5l5Ud",
+        "party": "ind",
+        "gps": ["0.980103", "35.56027"]
+      },
+      "keiyo north": {
+        "mp": "hon. Korir Adams Kipsanai",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20adams.jpg?itok=AVPc0aT-",
+        "party": "uda",
+        "gps": ["0.8255714", "35.5396597"]
+      },
+      "keiyo south": {
+        "mp": "hon. Gideon Kimaiyo",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20keiyo.jpg?itok=ccz1pjPs",
+        "party": "uda",
+        "gps": ["0.3833", "35.5333"]
+      }
+    }
+  },
+
+  {
+    "county": "nandi",
+    "code": "29",
+    "gps": ["0.22539325", "35.1244929"],
+    "constituencies": {
+      "tinderet": {
+        "mp": "hon. Meli Julius kipbirwot",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A4725.jpg?itok=QkzTi0za",
+        "party": "uda",
+        "gps": ["-0.0182536", "35.26542912"]
+      },
+      "aldai": {
+        "mp": "hon. Kitany Marianne",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/cropped%20kitany.jpg?itok=qA3s9tC7",
+        "party": "ind",
+        "gps": ["0.0580914", "34.975955"]
+      },
+      "nandi hills": {
+        "mp": "hon. Kitur Bernard Kibor",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kitur.jpg?itok=KBuHpWU2",
+        "party": "uda",
+        "gps": ["0.11723465", "35.2443166"]
+      },
+      "chesumei": {
+        "mp": "hon. Biego Paul Kibichiy",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A4570.JPG?itok=-EcAj1aC",
+        "party": "uda",
+        "gps": ["0.27397925", "35.0876802"]
+      },
+      "emgwen": {
+        "mp": "hon. Lelmengit Josses Kiptoo Kosgey",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Jossee.jpg?itok=A0VlWqJP",
+        "party": "uda",
+        "gps": ["0.1862545", "35.127519"]
+      },
+      "mosop": {
+        "mp": "hon. Kirwa Abraham Kipsang",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/default_images/person-outline-icon-png-person-outline-icon-png-person-17.png?itok=Nbz0asMk",
+        "party": "uda",
+        "gps": ["0.41345615", "35.0682462"]
+      }
+    }
+  },
+
+  {
+    "county": "baringo",
+    "code": "30",
+    "gps": ["0.468984", "35.980235"],
+    "constituencies": {
+      "tiaty": {
+        "mp": "hon. Kamket Kassait William",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Kamket%20William%20Kasait.jpg?itok=0NaqzLzU",
+        "party": "kanu",
+        "gps": ["0.892857", ""]
+      },
+      "baringo north": {
+        "mp": "hon. Kipkoros Joseph Makilap",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20makilap.jpg?itok=Nyt1jaQx",
+        "party": "uda",
+        "gps": ["0.76867285", "35.79803483"]
+      },
+      "baringo central": {
+        "mp": "hon. Kandie Joshua Chepyegon",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kandie.jpg?itok=ExwWuzyd",
+        "party": "uda",
+        "gps": ["0.400382", "35.741317"]
+      },
+      "baringo south": {
+        "mp": "hon. Kamuren Charles",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kamuren.jpg?itok=O9pDB5eV",
+        "party": "uda",
+        "gps": ["0.468984", "35.980235"]
+      },
+      "mogotio": {
+        "mp": "hon. Kipngor Reuben Kiborek",
+        "image": "https://www.mountsinai.on.ca/wellbeing/our-team/team-images/person-placeholder/image",
+        "party": "uda",
+        "gps": ["-0.022313", "35.9618378"]
+      },
+      "eldama ravine": {
+        "mp": "hon. Sirma Musa Cherutich",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20sirma.jpg?itok=BYN-FVUu",
+        "party": "uda",
+        "gps": ["-0.0198496", "35.7330897"]
+      }
+    }
+  },
+
+  {
+    "county": "laikipia",
+    "code": "31",
+    "gps": ["0.2858452", "36.8257710"],
+    "constituencies": {
+      "laikipia west": {
+        "mp": "hon. Karani Stephen Wachira",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Wachira%20Stephen%20Karani.jpg?itok=0IICeShX",
+        "party": "uda",
+        "gps": ["0.3477976", "36.3802363"]
+      },
+      "laikipia east": {
+        "mp": "hon. Kiunjuri Mwangi Festus",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_MWANGI%20CROPPED.jpg?itok=nUv6KXgI",
+        "party": "tsp",
+        "gps": ["0.028573", "36.832418"]
+      },
+      "laikipia north": {
+        "mp": "hon. Korere Sarah Paulata",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20sarah.jpg?itok=2lAmOG-h",
+        "party": "jp",
+        "gps": ["0.4132803", "37.0428210"]
+      }
+    }
+  },
+
+  {
+    "county": "nakuru",
+    "code": "32",
+    "gps": ["-0.2802724", "36.0712048"],
+    "constituencies": {
+      "molo": {
+        "mp": "hon. Mejjadonk Benjamin Gathiru",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_gathiru%20cropped.jpg?itok=YBoa5txX",
+        "party": "uda",
+        "gps": ["-0.35471985", "35.791639293"]
+      },
+      "njoro": {
+        "mp": "hon. Chepkwony Charity Kathambi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20njoro.jpg?itok=Gr8CEdK4",
+        "party": "uda",
+        "gps": ["-0.496302", "35.9615675"]
+      },
+      "naivasha": {
+        "mp": "hon. Kihara Jayne",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20naivasha.jpg?itok=4SuubR8f",
+        "party": "uda",
+        "gps": ["-0.7224425", "36.4387834"]
+      },
+      "gilgil": {
+        "mp": "hon. Wanjira Martha Wangari",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Martha.jpg?itok=bHceuIvp",
+        "party": "uda",
+        "gps": ["-0.4981671", "36.3253995"]
+      },
+      "kuresoi south": {
+        "mp": "hon. Tonui Joseph Kipkosgei",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped_1.jpg?itok=PCBx4329",
+        "party": "uda",
+        "gps": ["-0.542718", "35.6443171"]
+      },
+      "kuresoi north": {
+        "mp": "hon. Mutai Kiprono Alfred",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Mutai%20Alfred%20Kiprono.jpg?itok=7FaW5cEa",
+        "party": "uda",
+        "gps": ["-0.2537304", "35.6897884"]
+      },
+      "subukia": {
+        "mp": "hon. Gachobe Samuel Kinuthia",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20subukia_0.jpg?itok=L8CWthnJ",
+        "party": "uda",
+        "gps": ["0.02259505", "36.2227998"]
+      },
+      "rongai": {
+        "mp": "hon. Chebor Paul Kibet",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20rongai.jpg?itok=cR6hU97t",
+        "party": "uda",
+        "gps": ["-0.06283535", "36.02854802"]
+      },
+      "bahati": {
+        "mp": "hon. Mrembo Irene Njoki",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/cropped%20%20njoki.jpg?itok=figEyeU-",
+        "party": "jp",
+        "gps": ["-0.22752265", "36.14563964"]
+      },
+      "nakuru town west": {
+        "mp": "hon. Arama Samuel",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20arama.jpg?itok=O0GCQjkB",
+        "party": "jp",
+        "gps": ["-0.37223005", "36.08949797"]
+      },
+      "nakuru town east": {
+        "mp": "hon. Gikaria David",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20nakuru.jpg?itok=W9wHby4Z",
+        "party": "uda",
+        "gps": ["-0.34244945", "36.14558153"]
+      }
+    }
+  },
+
+  {
+    "county": "narok",
+    "code": "33",
+    "gps": ["-1.087970", "35.873100"],
+    "constituencies": {
+      "kilgoris": {
+        "mp": "hon. Sunkuli Julius Lekakeny",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20sunkuli.jpg?itok=FXm7OC4m",
+        "party": "kanu",
+        "gps": ["-1.007780", "34.880699"]
+      },
+      "emurua dikirr": {
+        "mp": "hon. Kipyegon Johana Ngeno",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Ngeno%20Stephen%20Johana%20Kipyegon.jpg?itok=zBfDV59b",
+        "party": "uda",
+        "gps": ["-0.910440", "35.056430"]
+      },
+      "narok north": {
+        "mp": "hon. Pareyio Mantaine Agnes",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mantaine.jpg?itok=WVH8LaCv",
+        "party": "jp",
+        "gps": ["-1.087970", "34.880699"]
+      },
+      "narok east": {
+        "mp": "hon. Lemanken Aramat",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20aramat.jpg?itok=3e-kzMFX",
+        "party": "uda",
+        "gps": ["-1.1578498", "36.1393645"]
+      },
+      "narok south": {
+        "mp": "hon. Ntutu Kitilai Ole",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20ntutu.jpg?itok=WvwynFnn",
+        "party": "ind",
+        "gps": ["-1.8783699", "35.8222195"]
+      },
+      "narok west": {
+        "mp": "hon. Tongoyo Gabriel Koshal",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/IMG-20220519-WA0047.jpg?itok=EoI__5w6",
+        "party": "uda",
+        "gps": ["-1.3078431", "35.0332195"]
+      }
+    }
+  },
+
+  {
+    "county": "kajiado",
+    "code": "34",
+    "gps": ["-1.395968", "36.7520106"],
+    "constituencies": {
+      "kajiado north": {
+        "mp": "hon. Nguro Onesmus Ngogoyo",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Nguro%20Onesmus%20Ngogoyo.jpg?itok=YIO1jWgq",
+        "party": "uda",
+        "gps": ["-1.395968", "36.7520106"]
+      },
+      "kajiado central": {
+        "mp": "hon. Kanchory Elijah Memusi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20memusi.jpg?itok=qqhxeCwQ",
+        "party": "odm",
+        "gps": ["-2.2099209", "36.8068287"]
+      },
+      "kajiado east": {
+        "mp": "hon. Hamisi Kakuta Maimai",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_IMG_4635.jpg?itok=eH_dBRYe",
+        "party": "odm",
+        "gps": ["-1.9464824", "37.0924927"]
+      },
+      "kajiado west": {
+        "mp": "hon. Sunkuiya George Risa",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20risa.jpg?itok=S_Ve_Jxb",
+        "party": "uda",
+        "gps": ["-1.9003643", "36.2875436"]
+      },
+      "kajiado south": {
+        "mp": "hon. Parashina Samuel Sakimba",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/cropped%20samuel.jpg?itok=wPXMIgjJ",
+        "party": "odm",
+        "gps": ["-2.5333", "37.5333"]
+      }
+    }
+  },
+
+  {
+    "county": "kericho",
+    "code": "35",
+    "gps": ["0.3689", "35.2863"],
+    "constituencies": {
+      "kipkelion east": {
+        "mp": "hon. Cherorot Joseph Kimutai",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A9954.jpg?itok=sLAZCUP4",
+        "party": "uda",
+        "gps": ["-0.1673204", "35.5914203"]
+      },
+      "kipkelion west": {
+        "mp": "hon. Kosgei Hilary Kiplang'at",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/DSC_1167.jpg?itok=44kn7xuZ",
+        "party": "uda",
+        "gps": ["-0.1389911", "35.4333496"]
+      },
+      "ainamoi": {
+        "mp": "hon. Langat Benjamin Kipkirui",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_DSC_3461.JPG?itok=rk988Xxz",
+        "party": "uda",
+        "gps": ["-0.3144969", "35.2604533"]
+      },
+      "bureti": {
+        "mp": "hon. Komingoi Kibet Kirui",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kirui.jpg?itok=B3IAH1DS",
+        "party": "uda",
+        "gps": ["-0.5616584", "35.1256402"]
+      },
+      "belgut": {
+        "mp": "hon. Koech Nelson",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Koech%20Nelson%20KIpyegon.jpg?itok=Ussn3yVM",
+        "party": "uda",
+        "gps": ["-0.1424246", "35.6200681"]
+      },
+      "sigowet-soin": {
+        "mp": "hon. Kemei Justice Kipsang",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-09/mini_831A4508.jpg",
+        "party": "uda",
+        "gps": ["-0.3924048", "35.0625552"]
+      }
+    }
+  },
+
+  {
+    "county": "bomet",
+    "code": "36",
+    "gps": ["-0.7196054", "35.2399625"],
+    "constituencies": {
+      "sotik": {
+        "mp": "hon. Sigei Francis Kipyegon Arap",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20sotik.jpg?itok=FuLRFycz",
+        "party": "uda",
+        "gps": ["-0.7675635", "35.1452473"]
+      },
+      "chepalungu": {
+        "mp": "hon. Koech Kipngetich Victor",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Hon.%20Koech%20Kipngetich%20Victor_cropped.jpg?itok=KoxX8kfk",
+        "party": "ccm",
+        "gps": ["-0.896344", "35.2525865"]
+      },
+      "bomet east": {
+        "mp": "hon. Yegon Richard Kipkemoi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20richard.jpg?itok=b6TFTear",
+        "party": "uda",
+        "gps": ["-0.8589555", "35.3949896"]
+      },
+      "bomet central": {
+        "mp": "hon. Kilel Richard Cheruiyot",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kilel.jpg?itok=Uf5MZS4K",
+        "party": "uda",
+        "gps": ["-0.68333", "35.36667"]
+      },
+      "konoin": {
+        "mp": "hon. Yegon Brighton Leonard",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20yegon_0.jpg?itok=veYApckE",
+        "party": "uda",
+        "gps": ["-0.5401141", "35.3788363"]
+      }
+    }
+  },
+
+  {
+    "county": "kakamega",
+    "code": "37",
+    "gps": ["0.2821222", "34.7454885"],
+    "constituencies": {
+      "lugari": {
+        "mp": "hon. Nabii Nabwera Daraja",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/nabii%20nabwera%20daraja.jpg?itok=IcYXSBYn",
+        "party": "odm",
+        "gps": ["0.6178522", "34.8998159"]
+      },
+      "likuyani": {
+        "mp": "hon. Mugabe Innocent Maino",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Mugabe%20Innocent%20Maino.jpg?itok=eufNhFQU",
+        "party": "odm",
+        "gps": ["0.8653629", "35.0880433"]
+      },
+      "malava": {
+        "mp": "hon. Injendi Moses Malulu",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20malava.jpg?itok=Rt9_UtNT",
+        "party": "anc",
+        "gps": ["0.4183521", "34.752844"]
+      },
+      "lurambi": {
+        "mp": "hon. Mukhwana Titus Khamala",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20lurambi.jpg?itok=82UfK35R",
+        "party": "odm",
+        "gps": ["0.2963855", "34.7473163"]
+      },
+      "navakholo": {
+        "mp": "hon. Wangwe Emmanuel",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Wangwe%20Emmanuel.jpg?itok=8JX0-s2x",
+        "party": "odm",
+        "gps": ["0.3870883", "34.6575295"]
+      },
+      "mumias west": {
+        "mp": "hon. Naicca Johnson Manya",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/NAICCA%20JOHNSON%20MANYA.jpg?itok=xOA8GYlF",
+        "party": "odm",
+        "gps": ["0.22036", "34.444439"]
+      },
+      "mumias east": {
+        "mp": "hon. Salasya Peter Kalerwa",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Salasya%20Peter%20Kalerwa.jpg?itok=eqEhO9Sz",
+        "party": "dap-k",
+        "gps": ["0.30485", "34.5370787"]
+      },
+      "matungu": {
+        "mp": "hon. Nabulindo Peter Oscar",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Nabulindo%20Peter%20Oscar.jpg?itok=e7_8SUVF",
+        "party": "odm",
+        "gps": ["0.4202", "34.4244"]
+      },
+      "butere": {
+        "mp": "hon. Mwale Nicholas Scott Tindi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-11/Mwale%20Scott%20Tindi.jpg?itok=LU_whZaS",
+        "party": "odm",
+        "gps": ["0.2163078", "34.4981298"]
+      },
+      "khwisero": {
+        "mp": "hon. Wangaya Christopher Aseka",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Wangaya%20Christopher%20Aseka.jpg?itok=5tWYwO7u",
+        "party": "odm",
+        "gps": ["0.146037", "34.5825344"]
+      },
+      "shinyalu": {
+        "mp": "hon. Ikana Fredrick Lusuli",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20shinyalu.jpg?itok=zEUff3zf",
+        "party": "anc",
+        "gps": ["0.2851499", "34.8736756"]
+      },
+      "ikolomani": {
+        "mp": "hon. Shinali Bernard Masaka",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20shinali.jpg?itok=hIGIpZAi",
+        "party": "odm",
+        "gps": ["0.1937294", "34.6954649"]
+      }
+    }
+  },
+
+  {
+    "county": "vihiga",
+    "code": "38",
+    "gps": ["0.0819283", "34.7084197"],
+    "constituencies": {
+      "vihiga": {
+        "mp": "hon. Kagesi Ernest Ogesi Kivai",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Kivai%20Ernest%20Ogesi.jpg?itok=LLiqfTs9",
+        "party": "anc",
+        "gps": ["0.0819283", "34.7084197"]
+      },
+      "sabatia": {
+        "mp": "hon. Sloya Clement Logova",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20sabatia.jpg?itok=Bnjm6cpK",
+        "party": "uda",
+        "gps": ["0.1128388", "34.7495902"]
+      },
+      "hamisi": {
+        "mp": "hon. Gimose Charles Gumini",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20gimose.jpg?itok=UT3nel6f",
+        "party": "anc",
+        "gps": ["0.0898352", "34.8325958"]
+      },
+      "luanda": {
+        "mp": "hon. Oyugi Dick Maungu",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Milemba%20Omboko%20Jeremiah.jpg?itok=1KRBZvFe",
+        "party": "dap-k",
+        "gps": ["0.0192065", "34.5967674"]
+      },
+      "emuhaya": {
+        "mp": "hon. Omboko Milemba",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20yegon_0.jpg?itok=veYApckE",
+        "party": "anc",
+        "gps": ["0.0773338", "34.6146899"]
+      }
+    }
+  },
+
+  {
+    "county": "bungoma",
+    "code": "39",
+    "gps": ["0.7829244", "34.7191681"],
+    "constituencies": {
+      "mount elgon": {
+        "mp": "hon. Chesebe Fred Kapondi",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-09/Chesebe%20Fred%20Kapondi.jpg",
+        "party": "jp",
+        "gps": ["0.8352484", "34.5847957"]
+      },
+      "sirisia": {
+        "mp": "hon. Koyi John Waluke",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20waluke.jpg?itok=BpQtUWnx",
+        "party": "jp",
+        "gps": ["0.7337528", "34.4987274"]
+      },
+      "kabuchai": {
+        "mp": "hon. Majimbo Kalasinga",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20majimbo.jpg?itok=gefq-ntq",
+        "party": "ford-k",
+        "gps": ["0.6927634", "34.5918134"]
+      },
+      "bumula": {
+        "mp": "hon. Wamboka Wanami Jack Nelson",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20jack.jpg?itok=UNF-OvYJ",
+        "party": "dap-k",
+        "gps": ["0.5662742", "34.4425529"]
+      },
+      "kanduyi": {
+        "mp": "hon. Makali John Okwisia",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20john.jpg?itok=NTnUBLvo",
+        "party": "ford-k",
+        "gps": ["0.5519444", "34.560987"]
+      },
+      "webuye east": {
+        "mp": "hon. Wanyonyi Martin Pepela",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Wanyonyi%20Martin%20Pepela.jpg?itok=Wczpwm9y",
+        "party": "ford-k",
+        "gps": ["0.6432712", "34.7968889"]
+      },
+      "webuye west": {
+        "mp": "hon. Sitati Daniel Wanyama",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Sitati%20Daniel%20Wanyama.jpg?itok=oiAxOvTT",
+        "party": "uda",
+        "gps": ["0.6186364", "34.7327045"]
+      },
+      "kimilili": {
+        "mp": "hon. Didmus Wekesa Barasa",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_Cropped%20barasa.jpg?itok=VKZ_T0tM",
+        "party": "uda",
+        "gps": ["0.7852779", "34.728181"]
+      },
+      "tongaren": {
+        "mp": "hon. Chikati John Murumba",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Chikati%20John%20Murumba.jpg?itok=WHks5SBR",
+        "party": "ford-k",
+        "gps": ["0.7749405", "34.9354126"]
+      }
+    }
+  },
+
+  {
+    "county": "busia",
+    "code": "40",
+    "gps": ["0.3712048", "34.2647952"],
+    "constituencies": {
+      "teso north": {
+        "mp": "hon. Kaunya Edward Oku",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Kaunya%20Edward%20Oku.jpg?itok=kepkhDEk",
+        "party": "odm",
+        "gps": ["0.632706", "34.269398"]
+      },
+      "teso south": {
+        "mp": "hon. Otucho Mary Emaase",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Cropped%20emase.jpg?itok=csFbxFv6",
+        "party": "uda",
+        "gps": ["0.5335987", "34.2522052"]
+      },
+      "nambale": {
+        "mp": "hon. Mulanya Ekase Geoffrey",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20nambale.jpg?itok=7VbAkeaf",
+        "party": "ind",
+        "gps": ["0.5028324", "34.3582169"]
+      },
+      "matayos": {
+        "mp": "hon. Odanga Geoffrey Makokha",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Odanga%20Geoffrey%20Makokha.jpg?itok=_BQSU4O9",
+        "party": "odm",
+        "gps": ["0.3838704", "34.1772981"]
+      },
+      "butula": {
+        "mp": "hon. Oyula Joseph Maero",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20oyula.jpg?itok=p5JhXM5k",
+        "party": "odm",
+        "gps": ["0.3430121", "34.2938237"]
+      },
+      "funyula": {
+        "mp": "hon. Oundo Wilberforce Ojiambo",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20oundo.jpg?itok=UYU7nbFE",
+        "party": "odm",
+        "gps": ["0.2805125", "34.1196811"]
+      },
+      "budalangi": {
+        "mp": "hon. Wanjala Raphael Bitta Sauti",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20wanjala.jpg?itok=xpDBepXq",
+        "party": "udodm",
+        "gps": ["0.1299901", "34.0260151"]
+      }
+    }
+  },
+
+  {
+    "county": "siaya",
+    "code": "41",
+    "gps": ["-0.0604013", "34.200135"],
+    "constituencies": {
+      "ugenya": {
+        "mp": "hon. Ochieng' David Ouma",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-12/Ochieng%20David%20Ouma.jpg?itok=AIX_PINb",
+        "party": "mdg",
+        "gps": ["0.2108547", "34.1751127"]
+      },
+      "ugunja": {
+        "mp": "hon. Wandayi James Opiyo",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Opiyo%20James%20Wandayi.jpg?itok=gJeXk167",
+        "party": "odm",
+        "gps": ["0.1548411", "34.3807269"]
+      },
+      "alego usonga": {
+        "mp": "hon. Atandi Samuel Onunga",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Atandi.jpg?itok=o_GPADoQ",
+        "party": "odm",
+        "gps": ["0.1050168", "34.1040489"]
+      },
+      "gem": {
+        "mp": "hon. Odhiambo Elisha ochieng'",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Odhiambo%20Elisha%20Ochieng.jpg?itok=afaoKroD",
+        "party": "odm",
+        "gps": ["0.0376684", "34.4645423"]
+      },
+      "bondo": {
+        "mp": "hon. Ogolla Gideon Ochanda",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20ochanda.jpg?itok=Xfv4e8CB",
+        "party": "odm",
+        "gps": ["-0.1006181", "34.2253023"]
+      },
+      "rarieda": {
+        "mp": "hon. Amollo Paul Otiende",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Amollo%20Paul%20Otiende.jpeg?itok=K3DlcKfI",
+        "party": "odm",
+        "gps": ["-0.2327108", ""]
+      }
+    }
+  },
+
+  {
+    "county": "kisumu",
+    "code": "42",
+    "gps": ["-0.1029109", "34.7541761"],
+    "constituencies": {
+      "kisumu east": {
+        "mp": "hon. Ahmed Shakeel Shabbir",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20shabbir.jpg?itok=kPXQ4gqS",
+        "party": "ind",
+        "gps": ["-0.023854", "34.7837997"]
+      },
+      "kisumu west": {
+        "mp": "hon. Buyu Rozaah Akinyi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20buyu.jpg?itok=QQ-WhXR2",
+        "party": "odm",
+        "gps": ["-0.0713479", "34.6720444"]
+      },
+      "kisumu central": {
+        "mp": "hon. Oron Joshua Odongo",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Oron%20Joshua%20Odongo.jpg?itok=xbjyZN3l",
+        "party": "odm",
+        "gps": ["-0.099399499", "34.7561264"]
+      },
+      "seme": {
+        "mp": "hon. Nyikal Wambura James",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20seme.jpg?itok=Jc6197l2",
+        "party": "odm",
+        "gps": ["-0.1054057", "34.5083324"]
+      },
+      "nyando": {
+        "mp": "hon. Okelo Jared Odoyo",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20jared.jpg?itok=rHwgsrJF",
+        "party": "odm",
+        "gps": ["-0.2098978", "34.9376686"]
+      },
+      "muhoroni": {
+        "mp": "hon. Oyoo James Onyango",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Oyoo%20James%20Opiyo.jpg?itok=GbhSRXya",
+        "party": "odm",
+        "gps": ["-0.1272987", "35.0796519"]
+      },
+      "nyakach": {
+        "mp": "hon. Owuor Joshua Aduma",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Aduma%20Joshua%20Owuor.jpg?itok=HYlbFR0Q",
+        "party": "odm",
+        "gps": ["-0.3213505", "34.9317609"]
+      }
+    }
+  },
+
+  {
+    "county": "homabay",
+    "code": "43",
+    "gps": ["-0.6479583", "34.5211431"],
+    "constituencies": {
+      "kasipul": {
+        "mp": "hon. Were Charles Ong'ondo",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kasipul.jpg?itok=AZ18UvSb",
+        "party": "odm",
+        "gps": ["-0.5425134", "34.6738036"]
+      },
+      "kabondo kasipul": {
+        "mp": "hon. Obara Eve Akinyi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_MWESH%20PHOTO.jpg?itok=HhUsAD7k",
+        "party": "odm",
+        "gps": ["-0.4488425", "34.8730934"]
+      },
+      "karachuonyo": {
+        "mp": "hon. Okuome Adipo Andrew",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20okuome.jpg?itok=CcG28U-m",
+        "party": "odm",
+        "gps": ["-0.3666", "34.65"]
+      },
+      "rangwe": {
+        "mp": "hon. Gogo Lilian Achieng'",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20gogo.jpg?itok=Lh8EDjNL",
+        "party": "odm",
+        "gps": ["-0.560417", "34.5831241"]
+      },
+      "homa bay town": {
+        "mp": "hon. Kaluma George Peter Opondo",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-12/KALUMA%20PETER%20GEORGE%20OPONDO.jpg?itok=lzlT_RGa",
+        "party": "odm",
+        "gps": ["-0.6479583", "34.5211431"]
+      },
+      "ndhiwa": {
+        "mp": "hon. Owino Martin Peters",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20ndhiwa.jpg?itok=T9edSNaZ",
+        "party": "odm",
+        "gps": ["-0.7129547", "34.3866623"]
+      },
+      "suba north": {
+        "mp": "hon. Odhiambo Millie Grace Akoth",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20millie.jpg?itok=N3LAnGDf",
+        "party": "odm",
+        "gps": ["-0.4997824", "34.3143037"]
+      },
+      "suba south": {
+        "mp": "hon. Omondi Caroli",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Omondi%20Caroli.jpg?itok=-maCMtAd",
+        "party": "odm",
+        "gps": ["-0.4596485", "34.0096862"]
+      }
+    }
+  },
+
+  {
+    "county": "migori",
+    "code": "44",
+    "gps": ["-1.06343", "34.47313"],
+    "constituencies": {
+      "rongo": {
+        "mp": "hon. Abuor Paul",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-09/mini_cropped%20rongo.jpg",
+        "party": "odm",
+        "gps": ["-0.690577", "34.6083804"]
+      },
+      "awendo": {
+        "mp": "hon. Owino John Walter",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/cropped%20owino.jpg?itok=v4qPUoBJ",
+        "party": "odm",
+        "gps": ["-0.09485", "34.3183148"]
+      },
+      "suna east": {
+        "mp": "hon. Junet Sheikh",
+        "image": "http://www.parliament.go.ke/sites/default/files/2017-10/cb0a7144eba907ac785c88f0e0fc98bf_M.jpg",
+        "party": "odm",
+        "gps": ["-1.067525", "34.5254284"]
+      },
+      "suna west": {
+        "mp": "hon. Masara Peter Francis",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20masara_0.jpg?itok=hjAmRheU",
+        "party": "odm",
+        "gps": ["-1.0666", "34.4666"]
+      },
+      "uriri": {
+        "mp": "hon. Nyamita Mark Ogolla",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-12/Nyamita%20Mark%20Ogolla.jpg?itok=Nc5L1gJn",
+        "party": "odm",
+        "gps": ["-0.945851", "34.4372772"]
+      },
+      "nyatike": {
+        "mp": "hon. Odege Tom Mboya",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Odege%20Tom%20Mboya.JPG?itok=iUfOHd1c",
+        "party": "odm",
+        "gps": ["-0.807537", "34.2206076"]
+      },
+      "kuria west": {
+        "mp": "hon. Robi Mathias Nyamabbe",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20robi.jpg?itok=5ubugo_Y",
+        "party": "uda",
+        "gps": ["-1.1861007", "34.5043921"]
+      },
+      "kuria east": {
+        "mp": "hon. Maisori Marwa Kemero Kitayama",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kiteyama.jpg?itok=AaDr5HTb",
+        "party": "uda",
+        "gps": ["-1.2999725", "34.583307"]
+      }
+    }
+  },
+
+  {
+    "county": "kisii",
+    "code": "45",
+    "gps": ["0.6773", "34.7796"],
+    "constituencies": {
+      "bonchari": {
+        "mp": "hon. Onchoke Charles Mamwacha",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20onchoke.jpg?itok=vA2tXElE",
+        "party": "upa",
+        "gps": ["-0.6283911", "34.6947453"]
+      },
+      "south mugirango": {
+        "mp": "hon. Onyiego Silvanus Osoro",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/ONYIEGO%2C%20SILVANUS%20OSORO.jpg?itok=UQjhONxP",
+        "party": "uda",
+        "gps": ["-0.8240604", "34.6627933"]
+      },
+      "bomachoge borabu": {
+        "mp": "hon. Barongo Nolfason Obadiah",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20obadiah.jpg?itok=V6A9uecO",
+        "party": "odm",
+        "gps": ["-0.9040827", "34.744357"]
+      },
+      "bobasi": {
+        "mp": "hon. Obiri Innocent Momanyi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20obiri.jpg?itok=nNI1eFod",
+        "party": "wdm",
+        "gps": ["-0.7895984", "34.8112613"]
+      },
+      "bomachoge chache": {
+        "mp": "hon. Alfa Ondieki Miruka",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_Screenshot_20220826_165032.jpg?itok=OQ8GWlCR",
+        "party": "uda",
+        "gps": ["-0.7470545", "34.6965828"]
+      },
+      "nyaribari masaba": {
+        "mp": "hon. Oundo Wilberforce Ojiambo",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20oundo.jpg?itok=UYU7nbFE",
+        "party": "odm",
+        "gps": ["-0.8609217", "34.9398898"]
+      },
+      "nyaribari chache": {
+        "mp": "hon. Jhanda Zaheer",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20nyaribari.jpg?itok=Ua1xqztX",
+        "party": "uda",
+        "gps": ["-0.844154", "34.9742328"]
+      },
+      "kitutu chache north": {
+        "mp": "hon. Nyakundi Japheth Mokaya",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Nyakundi%20Japheth%20Mokaya.jpg?itok=9ceYj1qz",
+        "party": "uda",
+        "gps": ["-0.5661618", "34.8132115"]
+      },
+      "kitutu chache south": {
+        "mp": "hon. Kibagendi Antoney",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kitutu.jpg?itok=Zr7srBnK",
+        "party": "odm",
+        "gps": ["-0.6434165", "34.7901258"]
+      }
+    }
+  },
+
+  {
+    "county": "nyamira",
+    "code": "46",
+    "gps": ["-0.6517907", "34.934167"],
+    "constituencies": {
+      "kitutu masaba": {
+        "mp": "hon. Gisairo Clive Ombane",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kitutu_0.jpg?itok=zOOpVn3m",
+        "party": "odm",
+        "gps": ["-0.7075743", "34.8832398"]
+      },
+      "west mugirango": {
+        "mp": "hon. Mogaka Stephen",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Stephen%20Mogaka_0.jpg?itok=e6jpnA_T",
+        "party": "jp",
+        "gps": ["-0.516059", "34.9045831"]
+      },
+      "north mugirango": {
+        "mp": "hon. Nyamoko Joash Nyamache",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_DSC_0866%20copy.jpg?itok=eMgG8iAr",
+        "party": "uda",
+        "gps": ["-0.5640255", "35.0059513"]
+      },
+      "borabu": {
+        "mp": "hon. Osero Patrick",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A4712.JPG?itok=AkHa6CE2",
+        "party": "odm",
+        "gps": ["-0.7636602", "35.0008202"]
+      }
+    }
+  },
+
+  {
+    "county": "nairobi",
+    "code": "47",
+    "gps": ["-1.2888222", "36.8232492"],
+    "constituencies": {
+      "westlands": {
+        "mp": "hon. Wetangula Timothy Wanyonyi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/WETANGULA%20TIMOTHY%20WANYONYI.jpg?itok=gqcqTrru",
+        "party": "odm",
+        "gps": ["-1.2465281", "36.7860759"]
+      },
+      "dagoretti north": {
+        "mp": "hon. Elachi Beatrice Kadeveresia",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_BILLBOARD%20pic.jpg?itok=pewgCegK",
+        "party": "odm",
+        "gps": ["-0.2866962", "36.1471668"]
+      },
+      "dagoretti south": {
+        "mp": "hon. Waweru John Kiarie",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kiarie.jpg?itok=0tQ8Umo0",
+        "party": "uda",
+        "gps": ["-1.2880867", "36.7361355"]
+      },
+      "lang'ata": {
+        "mp": "hon. Khodhe Phelix Odiwuor",
+        "image": "http://www.parliament.go.ke/sites/default/files/2022-09/mini_cropped%20kodhe.jpg",
+        "party": "odm",
+        "gps": ["-1.3708746", "36.8184145"]
+      },
+      "kibra": {
+        "mp": "hon. Odero Peter Ochieng'",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20orero.jpg?itok=PA0G_N0Z",
+        "party": "odm",
+        "gps": ["-1.3062893", "36.7807831"]
+      },
+      "roysambu": {
+        "mp": "hon. Mwafrika Augustine Kamande",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20roysambu.jpg?itok=OOMXxQX4",
+        "party": "uda",
+        "gps": ["-1.2188396", "36.8867392"]
+      },
+      "kasarani": {
+        "mp": "hon. Karauri Ronald Kamwiko",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kasa.jpg?itok=SS_lp6Ce",
+        "party": "ind",
+        "gps": ["-1.2185003", "36.9022311"]
+      },
+      "ruaraka": {
+        "mp": "hon. Kajwang' Francis Tom Joseph",
+        "image": "http://www.parliament.go.ke/sites/default/files/2017-10/a9e9f42914223665d97ad02bf448f9bc_M.jpg",
+        "party": "odm",
+        "gps": ["-1.2429941", "36.8756191"]
+      },
+      "embakasi south": {
+        "mp": "hon. Mawathe Julius Musili",
+        "image": "http://www.parliament.go.ke/sites/default/files/2017-10/e94c9fec1d4737ab646df2330968a9dc_M.jpg",
+        "party": "wdm-k",
+        "gps": ["-1.3232300", "36.8802108"]
+      },
+      "embakasi north": {
+        "mp": "hon. Gakuya James Mwangi",
+        "image": "http://www.parliament.go.ke/sites/default/files/2017-10/1538fa6a909fa10bd550ecd0c6ab5e72_M.jpg",
+        "party": "jp",
+        "gps": ["-1.2449083", "36.9060802"]
+      },
+      "embakasi central": {
+        "mp": "hon. Mejjadonk Benjamin Gathiru",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_gathiru%20cropped.jpg?itok=YBoa5txX",
+        "party": "uda",
+        "gps": ["-1.2666368", "36.9088414"]
+      },
+      "embakasi east": {
+        "mp": "hon. Babu Owino Paul Ongili",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Babu%20Owino%20Paul%20Ongili2.jpg?itok=tWsmZRPc",
+        "party": "odm",
+        "gps": ["-1.2843808", "36.9680714"]
+      },
+      "embakasi west": {
+        "mp": "hon. Mwenje Mark Samuel Muriithi",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mwenje.jpg?itok=QuNoRve7",
+        "party": "jp",
+        "gps": ["-1.2834369", "36.8928409"]
+      },
+      "makadara": {
+        "mp": "hon. Omwera George Aldwa",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_DSC_3680.jpg?itok=DmKMG6BV",
+        "party": "odm",
+        "gps": ["-1.2952187", "36.8718614"]
+      },
+      "kamukunji": {
+        "mp": "hon. Abdi Yusuf Hassan",
+        "image": "http://www.parliament.go.ke/sites/default/files/2017-10/531fa9636bc95fc322dfb7a73f42bbbf_M.jpg",
+        "party": "jp",
+        "gps": ["-1.2778671", "36.8617054"]
+      },
+      "starehe": {
+        "mp": "hon. Mwago Amos Maina",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Amos%20Mwago%20Maina_0.jpg?itok=cw_CH1QU",
+        "party": "jp",
+        "gps": ["-1.297481", "36.8325605"]
+      },
+      "mathare": {
+        "mp": "hon. Oluoch Anthony Tom",
+        "image": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Oluoch%20Anthony.jpg?itok=QfSBEh3S",
+        "party": "odm",
+        "gps": ["-1.2584151", "36.8712671"]
+      }
+    }
+  }
+]
